@@ -1,0 +1,28 @@
+body {
+  background-color: #BA7BD6;
+
+}
+
+img {
+height: 325px;
+}
+
+p {
+  line-height: 1.5 rem;
+  min-height: 6 rem;
+}
+
+.item-title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+}
+
+.item-description {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+
+}
