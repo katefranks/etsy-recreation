@@ -12,6 +12,10 @@ p {
   min-height: 6 rem;
 }
 
+ul {
+  list-style: none;
+}
+
 .item-title {
   display: -webkit-box;
   -webkit-box-orient: vertical;
@@ -26,3 +30,12 @@ p {
   overflow: hidden;
 
 }
+
+.nav-social-links {
+  display: flex;
+}
+
+/* .nav-social-list {
+  display: flex;
+  justify-content: space-between;
+} */
